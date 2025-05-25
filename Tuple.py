@@ -63,6 +63,7 @@ print(4 in T35) #membership
 a,b,*c = T35
 print(a, b, c) #by writing star before the variable all the remaining values are pushed as list
 
-
+print("some tweeking for git")
+#done bu git_user3
 
 
